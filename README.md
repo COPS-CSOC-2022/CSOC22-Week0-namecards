@@ -4,7 +4,7 @@ This repository contains your second challenge of this week. To fully accomplish
 this challenge you should have get successfully merged your pull request about
 including your namecard in it.
 
-The Web Page is live at - [COPS-NameCards](https://csoc-2021-namecards.netlify.app/)
+The Web Page is live at - [COPS-NameCards-CSOC22](http://csoc-week0-namecards.vercel.app/)
 
 ## Steps to Contribute
 
