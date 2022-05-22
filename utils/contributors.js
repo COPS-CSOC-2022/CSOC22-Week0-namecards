@@ -69,37 +69,37 @@ const CONTRIBUTERS = [
                 <lord-icon
                 src="https://cdn.lordicon.com/iahpzgqp.json"
                 trigger="loop"
-                style="width:250px;height:250px">
+                style="width:25px;height:25px">
                 </lord-icon>
                     Binging
                 <lord-icon
                 src="https://cdn.lordicon.com/iahpzgqp.json"
                 trigger="loop"
-                style="width:250px;height:250px">
+                style="width:25px;height:25px">
                 </lord-icon>
                <br />
                <lord-icon
                src="https://cdn.lordicon.com/gmzxduhd.json"
                trigger="loop"
-               style="width:250px;height:250px">
+               style="width:25px;height:25px">
                </lord-icon>
-                   Listening to Harrys House
+                   Lazing around
                <lord-icon
                src="https://cdn.lordicon.com/gmzxduhd.json"
                trigger="loop"
-               style="width:250px;height:250px">
+               style="width:25px;height:25px">
                </lord-icon>
                <br />
                <lord-icon
                src="https://cdn.lordicon.com/wxnxiano.json"
                trigger="loop"
-               style="width:250px;height:250px">
+               style="width:25px;height:25px">
                </lord-icon>
                    Reading
                <lord-icon
                src="https://cdn.lordicon.com/wxnxiano.json"
                trigger="loop"
-               style="width:250px;height:250px">
+               style="width:25px;height:25px">
                </lord-icon>
                <br />
             </div>
