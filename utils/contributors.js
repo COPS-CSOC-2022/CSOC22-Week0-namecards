@@ -102,6 +102,35 @@ const CONTRIBUTERS = [
                style="width:25px;height:25px">
                </lord-icon>
                <br />
+               <lord-icon
+                  src="https://cdn.lordicon.com/apuwlldu.json"
+                  trigger="loop"
+                  colors="primary:#e88c30,secondary:#d59f80"
+                  style="width:25px;height:25px">
+               </lord-icon>
+                  Grooving to the music
+               <lord-icon
+                  src="https://cdn.lordicon.com/apuwlldu.json"
+                  trigger="loop"
+                  colors="primary:#e88c30,secondary:#d59f80"
+                  style="width:25px;height:25px">
+                 </lord-icon>
+                 <br />
+
+                 <lord-icon
+                    src="https://cdn.lordicon.com/rqbhwzez.json"
+                    trigger="loop"
+                    colors="primary:#121331,secondary:#4d2c19"
+                    style="width:25px;height:25px">
+                 <lord-icon>
+                    Learning
+                 <lord-icon
+                    src="https://cdn.lordicon.com/rqbhwzez.json"
+                    trigger="loop"
+                    colors="primary:#121331,secondary:#4d2c19"
+                    style="width:25px;height:25px">
+                 </lord-icon>
+                 <br />
             </div>
         `,
         github: "https://github.com/Nandinisaagar",
