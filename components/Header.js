@@ -8,7 +8,7 @@ const HEADER_ITEMS = [
     {
         id: 1,
         title: "Submit A Card",
-        url: "https://github.com/COPS-IITBHU/csoc-2021-namecards",
+        url: "https://github.com/COPS-CSOC-2022/CSOC22-Week0-namecards",
     },
     {
         id: 2,
@@ -25,7 +25,7 @@ export default function Header(props) {
                 <div className="px-3">
                     <Link href="/">
                         <a className="d-flex align-items-center py-2">
-                            <h4 className="font-weight-bold m-0">CSOC NAMECARDS</h4>
+                            <h4 className="font-weight-bold m-0">CSOC'22 NAMECARDS</h4>
                         </a>
                     </Link>
                 </div>
