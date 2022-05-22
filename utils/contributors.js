@@ -59,6 +59,54 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/debarati-06",
     },
+      {
+        handle_name: 'Nandinisaagar',
+        name: "Nandini Saagar",
+        image: "/images/Nandini.jpeg",
+        description: `
+            <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+            <div class="text-center">
+                <lord-icon
+                src="https://cdn.lordicon.com/iahpzgqp.json"
+                trigger="loop"
+                style="width:250px;height:250px">
+                </lord-icon>
+                    Binging
+                <lord-icon
+                src="https://cdn.lordicon.com/iahpzgqp.json"
+                trigger="loop"
+                style="width:250px;height:250px">
+                </lord-icon>
+               <br />
+               <lord-icon
+               src="https://cdn.lordicon.com/gmzxduhd.json"
+               trigger="loop"
+               style="width:250px;height:250px">
+               </lord-icon>
+                   Listening to Harrys House
+               <lord-icon
+               src="https://cdn.lordicon.com/gmzxduhd.json"
+               trigger="loop"
+               style="width:250px;height:250px">
+               </lord-icon>
+               <br />
+               <lord-icon
+               src="https://cdn.lordicon.com/wxnxiano.json"
+               trigger="loop"
+               style="width:250px;height:250px">
+               </lord-icon>
+                   Reading
+               <lord-icon
+               src="https://cdn.lordicon.com/wxnxiano.json"
+               trigger="loop"
+               style="width:250px;height:250px">
+               </lord-icon>
+               <br />
+            </div>
+        `,
+        github: "https://github.com/Nandinisaagar",
+    }
+    },
 ];
 
 export default CONTRIBUTERS;
