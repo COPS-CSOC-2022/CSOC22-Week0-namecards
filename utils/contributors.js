@@ -59,6 +59,13 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/debarati-06",
     },
+    {
+        handle_name: 'suhanigarg29',
+        name: "Suhani Garg",
+        image: "/images/suhanicsoc.jpg",
+        description: "Hello! Mining Fresher :)",
+        github: "https://github.com/suhanigarg29",
+    },
 ];
 
 export default CONTRIBUTERS;
