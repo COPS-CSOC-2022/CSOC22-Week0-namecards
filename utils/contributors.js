@@ -59,6 +59,67 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/debarati-06",
     },
+    {
+        handle_name: 'Nandinisaagar',
+        name: "Nandini Saagar",
+        image: "/images/Nandini.jpeg",
+        description: `
+            <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+            <div class="text-center">
+                <lord-icon
+                src="https://cdn.lordicon.com/iahpzgqp.json"
+                trigger="loop"
+                style="width:25px;height:25px">
+                </lord-icon>
+                    Binging
+                <lord-icon
+                src="https://cdn.lordicon.com/iahpzgqp.json"
+                trigger="loop"
+                style="width:25px;height:25px">
+                </lord-icon>
+               <br />
+               <lord-icon
+               src="https://cdn.lordicon.com/gmzxduhd.json"
+               trigger="loop"
+               style="width:25px;height:25px">
+               </lord-icon>
+                   Lazing around
+               <lord-icon
+               src="https://cdn.lordicon.com/gmzxduhd.json"
+               trigger="loop"
+               style="width:25px;height:25px">
+               </lord-icon>
+               <br />
+               <lord-icon
+               src="https://cdn.lordicon.com/wxnxiano.json"
+               trigger="loop"
+               style="width:25px;height:25px">
+               </lord-icon>
+                   Reading
+               <lord-icon
+               src="https://cdn.lordicon.com/wxnxiano.json"
+               trigger="loop"
+               style="width:25px;height:25px">
+               </lord-icon>
+               <br />
+               <lord-icon
+                  src="https://cdn.lordicon.com/apuwlldu.json"
+                  trigger="loop"
+                  colors="primary:#e88c30,secondary:#d59f80"
+                  style="width:25px;height:25px">
+               </lord-icon>
+                  Grooving to the music
+               <lord-icon
+                  src="https://cdn.lordicon.com/apuwlldu.json"
+                  trigger="loop"
+                  colors="primary:#e88c30,secondary:#d59f80"
+                  style="width:25px;height:25px">
+                 </lord-icon>
+                 <br />
+            </div>
+        `,
+        github: "https://github.com/Nandinisaagar",
+    }
 ];
 
 export default CONTRIBUTERS;
