@@ -59,6 +59,32 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/debarati-06",
     },
+    {
+        handle_name: 'shriya-tiwari',
+        name: "Shriya Tiwari",
+        image: "/images/shriya.jpg",
+        description: `
+            <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
+            <div class="text-center">
+               <lord-icon src="https://cdn.lordicon.com/ycnmpwon.json" trigger="loop" colors="primary:#121331,secondary:#66d7ee" style="width:25px;height:25px"></lord-icon>    
+                    Chilling
+                <lord-icon src="https://cdn.lordicon.com/ycnmpwon.json" trigger="loop" colors="primary:#121331,secondary:#66d7ee" style="width:25px;height:25px"></lord-icon>    
+                <br />
+                <lord-icon src="https://cdn.lordicon.com/vieswnpa.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" stroke="70" style="width:25px;height:25px"></lord-icon>
+                    Music
+                <lord-icon src="https://cdn.lordicon.com/vieswnpa.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" stroke="70" style="width:25px;height:25px"></lord-icon>
+                    <br />
+                <lord-icon src="https://cdn.lordicon.com/wtjkspws.json" trigger="loop" colors="primary:#92140c,secondary:#121331" style="width:25px;height:25px"></lord-icon>
+                    Movies
+                <lord-icon src="https://cdn.lordicon.com/wtjkspws.json" trigger="loop" colors="primary:#92140c,secondary:#121331" style="width:25px;height:25px"></lord-icon>
+                <br />
+                <lord-icon src="https://cdn.lordicon.com/jpdtnwas.json" trigger="loop" colors="primary:#121331,secondary:#e88c30" style="width:25px;height:25px"></lord-icon>
+                    Eating
+                    <lord-icon src="https://cdn.lordicon.com/jpdtnwas.json" trigger="loop" colors="primary:#121331,secondary:#e88c30" style="width:25px;height:25px"></lord-icon>
+            </div>
+        `,
+        github: "https://github.com/shriya-tiwari",
+    },
 ];
 
 export default CONTRIBUTERS;
