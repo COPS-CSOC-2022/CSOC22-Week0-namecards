@@ -61,7 +61,7 @@ const CONTRIBUTERS = [
     },{ 
         handle_name: 'ChhaSahil',
         name: "Sahil Chhabra",
-        image: "/images/sahil.png",
+        image: "/images/sahil.jpg",
         description: `
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
             <div class="text-center">
