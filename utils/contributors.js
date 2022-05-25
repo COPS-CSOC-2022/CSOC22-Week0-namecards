@@ -59,6 +59,13 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/debarati-06",
     },
+    {
+        handle_name: 'AyushJ16',
+        name: "Ayush Jaiswal",
+        image: "/images/namecard.jpg",
+        description: "Hello everyone, My name is Ayush Jaiswal. An undergraduate fresher at IIT BHU. I am a quick learner and exploring Dev field.",
+        github: "https://github.com/AyushJ16",
+    }
 ];
 
 export default CONTRIBUTERS;
