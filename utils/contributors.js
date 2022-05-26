@@ -63,7 +63,7 @@ const CONTRIBUTERS = [
         handle_name: 'verkwikit',
         name: "Gaurav",
         image: "/images/verkwikit.jpg",
-        description: 
+        description:`
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
             <div class="text-center">
             <lord-icon src="https://cdn.lordicon.com/ycnmpwon.json" trigger="loop" colors="primary:#121331,secondary:#66d7ee" style="width:25px;height:25px"></lord-icon>    
