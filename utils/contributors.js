@@ -60,9 +60,9 @@ const CONTRIBUTERS = [
         github: "https://github.com/debarati-06",
     },
     {
-        handle_name: 'ankur12-160',
+        handle_name: 'iamadisinghal',
         name: "Aditya Singhal",
-        image: "/images/anks.png",
+        image: "/images/iamadisingahl.png",
         description: `
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
             <div class="text-center">
