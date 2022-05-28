@@ -84,7 +84,7 @@ const CONTRIBUTERS = [
             </div>
         `,
         github: "https://github.com/Shuchi17",
-    }
+    },
 ];
 
 export default CONTRIBUTERS;
