@@ -59,6 +59,13 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/debarati-06",
     },
+    {
+        handle_name: 'abhinav-0401',
+        name: "Abhinav Jha",
+        image: "/images/oldieCat.jpg",
+        description: "Hello everyone, this is the first card. Go ahead, add your own!",
+        github: "https://github.com/abhinav-0401",
+    },
 ];
 
 export default CONTRIBUTERS;
