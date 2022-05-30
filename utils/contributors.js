@@ -59,6 +59,13 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/debarati-06",
     },
+    {
+        handle_name: 'Shubham9455',
+        name: "Shubham Jaiswal",
+        image: "/images/android-development.jpg",
+        description: "Hello everyone, this is the Shubham Jaiswal,From ECE part 1, currently i am learning Flutter development My hobbies are cricket, movies, games etc",
+        github: "https://github.com/Shubham9455",
+    },
 ];
 
 export default CONTRIBUTERS;
