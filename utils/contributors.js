@@ -8,9 +8,9 @@ const CONTRIBUTERS = [
     },
     // Start adding your data below
     {
-        handle_name: 'ankur12-160',
-        name: "Ankur Patil",
-        image: "/images/anks.png",
+        handle_name: 'lalit9389',
+        name: "Lalit singh",
+        image: "anime.jpg",
         description: `
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
             <div class="text-center">
@@ -31,7 +31,7 @@ const CONTRIBUTERS = [
                     <lord-icon src="https://cdn.lordicon.com/jpdtnwas.json" trigger="loop" colors="primary:#121331,secondary:#e88c30" style="width:25px;height:25px"></lord-icon>
             </div>
         `,
-        github: "https://github.com/ankur12-1610",
+        github: "https://github.com/lalit9389",
     },
     {
         handle_name: 'debarati-06',
