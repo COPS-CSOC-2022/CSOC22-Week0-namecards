@@ -59,6 +59,13 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/debarati-06",
     },
+    {
+        handle_name: 'YBansal95',
+        name: "Yashwni Bansal",
+        image: "/images/yashwini.jpg",
+        description: "Annyeonghaseyo!",
+        github: "https://github.com/YBansal95",
+    },
 ];
 
 export default CONTRIBUTERS;
