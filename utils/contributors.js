@@ -59,6 +59,13 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/debarati-06",
     },
+    {
+        handle_name: 'jp',
+        name: "First Card",
+        image: "/images/jp.webp",
+        description: "Hello everyone, this is the jp card. Go ahead!",
+        github: "https://github.com/jayantpranjal0",
+    },
 ];
 
 export default CONTRIBUTERS;
