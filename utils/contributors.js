@@ -59,7 +59,6 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/debarati-06",
     },
-
     {
         handle_name: 'qZiss',
         name: "Ansh Chuadhary",
@@ -86,7 +85,6 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/qZiss",
     },
-
 ];
 
 export default CONTRIBUTERS;
