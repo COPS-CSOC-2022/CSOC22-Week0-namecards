@@ -58,7 +58,8 @@ const CONTRIBUTERS = [
             </div>
         `,
         github: "https://github.com/debarati-06",
-    },{ 
+    },
+    { 
         handle_name: 'ChhaSahil',
         name: "Sahil Chhabra",
         image: "/images/sahil.jpg",
@@ -81,9 +82,9 @@ const CONTRIBUTERS = [
                 Eating
                 <lord-icon src="https://cdn.lordicon.com/jpdtnwas.json" trigger="loop" colors="primary:#121331,secondary:#e88c30" style="width:25px;height:25px"></lord-icon>
         </div>
-    `,
-    github: "https://github.com/ChhaSahil",
-},
+        `,
+        github: "https://github.com/ChhaSahil",
+     },
 ];
 
 export default CONTRIBUTERS;
