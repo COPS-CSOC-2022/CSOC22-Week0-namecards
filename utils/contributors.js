@@ -7,6 +7,7 @@ const CONTRIBUTERS = [
         github: "https://github.com/COPS-IITBHU",
     },
     // Start adding your data below
+    // added my data at last
     {
         handle_name: 'ankur12-160',
         name: "Ankur Patil",
@@ -58,6 +59,13 @@ const CONTRIBUTERS = [
             </div>
         `,
         github: "https://github.com/debarati-06",
+    },
+    {
+        handle_name: 'Puneet_03',
+        name: "Puneet Awasthi",
+        image: "/images/puneet.jpeg",
+        description: "Hello everyone,I am Puneet Awasthi and this is my first card. Go ahead, add your own.",
+        github: "https://github.com/Puneet-03",
     },
 ];
 
