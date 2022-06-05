@@ -62,7 +62,7 @@ const CONTRIBUTERS = [
     {
         handle_name: 'Yash-Agarwal1708',
         name: "Yash Agarwal",
-        image: "/images/yash.jpg",
+        image: "/images/yash.jpeg",
         description: `
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
             <div class="text-center">
@@ -86,6 +86,5 @@ const CONTRIBUTERS = [
         github: "https://github.com/Yash-Agarwal1708",
     },
 ];
-
 
 export default CONTRIBUTERS;
