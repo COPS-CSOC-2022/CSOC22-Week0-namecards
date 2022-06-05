@@ -63,7 +63,7 @@ const CONTRIBUTERS = [
     {
         handle_name: 'Puneet_03',
         name: "Puneet Awasthi",
-        image: "/images/image.jpeg",
+        image: "/images/puneet.jpeg",
         description: "Hello everyone,I am Puneet Awasthi and this is my first card. Go ahead, add your own.",
         github: "https://github.com/Puneet-03",
     },
