@@ -60,7 +60,7 @@ const CONTRIBUTERS = [
         github: "https://github.com/debarati-06",
     },
     {
-        handle_name: 'debarati-06',
+        handle_name: 'hs05june',
         name: "Harpreet Singh",
         image: "/images/harpreet.jpg",
         description: `
