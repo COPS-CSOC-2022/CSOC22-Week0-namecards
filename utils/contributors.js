@@ -62,7 +62,7 @@ const CONTRIBUTERS = [
     {
         handle_name: 'sachinkg7',
         name: "Sachin Kumar Gupta",
-        image: "/images/Screenshot 2022-05-30 233414.jpg",
+        image: "/images/Screenshot.jpg",
         description: `
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
             <div class="text-center">
