@@ -59,11 +59,10 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/debarati-06",
     },
-    
     {
         handle_name: 'Harshith1263',
         name: "Harshith",
-        image: "/home/harshith/CSOC22-Week0-namecards/public/images/Harshith.jpeg",
+        image: "/images/Harshith.jpeg",
         description: `
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
             <div class="text-center">
@@ -89,5 +88,3 @@ const CONTRIBUTERS = [
 ];
 
 export default CONTRIBUTERS;
-
-
