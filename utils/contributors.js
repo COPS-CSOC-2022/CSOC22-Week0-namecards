@@ -62,7 +62,7 @@ const CONTRIBUTERS = [
     {
         handle_name: 'PrachiK003',
         name: "Prachi Kumar",
-        image: "\public\images\image1.jpg",
+        image: "public/images/image1.jpg",
         description: `
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
             <div class="text-center">
