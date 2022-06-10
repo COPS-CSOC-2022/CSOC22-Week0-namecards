@@ -59,6 +59,38 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/debarati-06",
     },
+
+
+
+    {
+        handle_name: 'Devansh-1007',
+        name: "Devansh Choudhary",
+        image: "/images/devansh.png",
+        description: `
+        Hello everyone,I am Devansh Choudhary from Chemical Engineering PART 1
+       <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
+            <div class="text-center">
+               <lord-icon src="https://cdn.lordicon.com/ryodbtwr.json" trigger="loop" colors="primary:#121331,secondary:#66d7ee" style="width:25px;height:25px"></lord-icon>    
+                    Chilling
+                <lord-icon src="https://cdn.lordicon.com/ryodbtwr.json" trigger="loop" colors="primary:#121331,secondary:#66d7ee" style="width:25px;height:25px"></lord-icon>    
+                <br />
+                <lord-icon src="https://cdn.lordicon.com/jnlncdtk.json" trigger="loop" colors="primary:#121331,secondary:#2516c7" style="width:25px;height:25px"></lord-icon>
+                    Travelling
+                <lord-icon src="https://cdn.lordicon.com/jnlncdtk.json" trigger="loop" colors="primary:#121331,secondary:#2516c7" style="width:25px;height:25px"></lord-icon>
+                    <br />
+                    <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+                    <lord-icon src="https://cdn.lordicon.com/qatykyxz.json" trigger="loop" style="width:25px;height:25px"></lord-icon>
+                    Learning
+                    <lord-icon src="https://cdn.lordicon.com/qatykyxz.json" trigger="loop" style="width:25px;height:25px"></lord-icon>
+                <br />
+                <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+<lord-icon src="https://cdn.lordicon.com/qothfipj.json" trigger="loop" style="width:25px;height:25px"></lord-icon>
+                    Bring me <s>Thanos</s> Food
+                    <lord-icon src="https://cdn.lordicon.com/qothfipj.json" trigger="loop" style="width:25px;height:25px"></lord-icon>
+            </div>
+       `,
+        github: "https://github.com/Devansh-1007",
+    },
 ];
 
 export default CONTRIBUTERS;
