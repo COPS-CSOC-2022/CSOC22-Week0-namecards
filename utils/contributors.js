@@ -59,12 +59,12 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/debarati-06",
     },
-    
-    
-    
+
+
+
     {
         handle_name: 'Devansh-1007',
-        name:   "Devansh Choudhary",
+        name: "Devansh Choudhary",
         image: "/images/devansh.png",
         description: `
         Hello everyone,I am Devansh Choudhary from Chemical Engineering PART 1
