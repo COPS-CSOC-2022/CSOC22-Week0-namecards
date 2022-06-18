@@ -59,6 +59,11 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/debarati-06",
     },
+     {
+        handle_name: 'nikunjladumor',
+        name: "Nikunj Ladumor",
+        image: "/images/nikunj.jpg",
+     },
 ];
 
 export default CONTRIBUTERS;
