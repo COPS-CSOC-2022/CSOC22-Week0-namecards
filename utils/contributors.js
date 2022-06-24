@@ -59,6 +59,13 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/debarati-06",
     },
+    {
+        handle_name: 'you-think-you-know-me',
+        name: "Priyanka Shruti",
+        image: "/images/priyanka.jpg",
+        description: "Hello everyone!",
+        github: "https://github.com/you-think-you-know-me",
+    },
 ];
 
 export default CONTRIBUTERS;
