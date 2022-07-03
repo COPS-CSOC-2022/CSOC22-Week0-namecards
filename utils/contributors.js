@@ -8,6 +8,13 @@ const CONTRIBUTERS = [
     },
     // Start adding your data below
     {
+        handle_name: 'madtitan02',
+        name: "utkarsh raj ",
+        image: "/images/madtitan.png",
+        description: "Hello everyone, this is the first card. !",
+        github: "https://github.com/madtitan02",
+    },
+    {
         handle_name: 'ankur12-160',
         name: "Ankur Patil",
         image: "/images/anks.png",
