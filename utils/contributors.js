@@ -14,9 +14,9 @@ const CONTRIBUTERS = [
         description: `
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
             <div class="text-center">
-               <lord-icon src="https://cdn.lordicon.com/ycnmpwon.json" trigger="loop" colors="primary:#121331,secondary:#66d7ee" style="width:25px;height:25px"></lord-icon>    
+               <lord-icon src="https://cdn.lordicon.com/ycnmpwon.json" trigger="loop" colors="primary:#121331,secondary:#66d7ee" style="width:25px;height:25px"></lord-icon>
                     Chilling
-                <lord-icon src="https://cdn.lordicon.com/ycnmpwon.json" trigger="loop" colors="primary:#121331,secondary:#66d7ee" style="width:25px;height:25px"></lord-icon>    
+                <lord-icon src="https://cdn.lordicon.com/ycnmpwon.json" trigger="loop" colors="primary:#121331,secondary:#66d7ee" style="width:25px;height:25px"></lord-icon>
                 <br />
                 <lord-icon src="https://cdn.lordicon.com/wxnxiano.json" trigger="loop" colors="primary:#121331,secondary:#2516c7" style="width:25px;height:25px"></lord-icon>
                     Working
@@ -40,9 +40,9 @@ const CONTRIBUTERS = [
         description: `
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
             <div class="text-center">
-               <lord-icon src="https://cdn.lordicon.com/ycnmpwon.json" trigger="loop" colors="primary:#121331,secondary:#66d7ee" style="width:25px;height:25px"></lord-icon>    
+               <lord-icon src="https://cdn.lordicon.com/ycnmpwon.json" trigger="loop" colors="primary:#121331,secondary:#66d7ee" style="width:25px;height:25px"></lord-icon>
                     Chilling
-                <lord-icon src="https://cdn.lordicon.com/ycnmpwon.json" trigger="loop" colors="primary:#121331,secondary:#66d7ee" style="width:25px;height:25px"></lord-icon>    
+                <lord-icon src="https://cdn.lordicon.com/ycnmpwon.json" trigger="loop" colors="primary:#121331,secondary:#66d7ee" style="width:25px;height:25px"></lord-icon>
                 <br />
                 <lord-icon src="https://cdn.lordicon.com/wxnxiano.json" trigger="loop" colors="primary:#121331,secondary:#2516c7" style="width:25px;height:25px"></lord-icon>
                     Working
@@ -59,6 +59,13 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/debarati-06",
     },
+    {
+        handle_name: 'Kunal1903',
+        name: "Kunal Lalwani",
+        image: "/images/kunal.jpeg",
+        description: "Hello everyone, this is the first card. Go ahead, add your own!",
+        github: "https://github.com/Kunal1903",
+    }
 ];
 
 export default CONTRIBUTERS;
