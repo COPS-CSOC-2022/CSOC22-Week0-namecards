@@ -59,6 +59,13 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/debarati-06",
     },
+    {
+        handle_name: 'abhinav-0401',
+        name: "Abhinav Jha",
+        image: "/images/oldieCat.jpg",
+        description: "Hey, I'm Abhinav and I absolutely love just learning new stuff. That can be History, programming (low level looks juicy af rn), and pretty much anything else :) Especially if it's some Renaissance, Medieval, or Early Modern European history!",
+        github: "https://github.com/abhinav-0401",
+    },
 ];
 
 export default CONTRIBUTERS;
