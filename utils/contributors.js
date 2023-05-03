@@ -61,4 +61,12 @@ const CONTRIBUTERS = [
     },
 ];
 
+const CONTRIBUTERS = [
+    {
+        handle_name: 'cosy-coder',
+        name: "First Card",
+        image: "/images/cops.jpg",
+        description: "Hello everyone, this is the first card. Go ahead, add your own!",
+        github: "https://github.com/cosy-coder",
+    }
 export default CONTRIBUTERS;
